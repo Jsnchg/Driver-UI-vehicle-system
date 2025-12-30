@@ -1,0 +1,25 @@
+# KiCad files
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*.kicad_pro.user
+*.kicad_pro.lock
+*.kicad_pro.kicad_pro
+fp-info-cache
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Build outputs
+*.zip
+*.backup
+
