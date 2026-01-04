@@ -1,0 +1,19 @@
+QUICK FIX FOR HIERARCHICAL SHEET ERRORS
+========================================
+
+1. Open KiCad and your project
+
+2. For each broken hierarchical sheet:
+   - Right-click the sheet → Properties
+   - Click the File browse button
+   - Navigate to: gmsl-deserializer folder
+   - Select the correct .kicad_sch file
+   - Click OK
+
+3. Save the schematic (Ctrl+S)
+
+4. Close and reopen - errors should be gone!
+
+Files should be at:
+C:\Users\Jordan\Documents\GitHub\Driver-UI-vehicle-system\gmsl-deserializer\
+

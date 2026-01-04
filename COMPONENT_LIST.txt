@@ -1,0 +1,227 @@
+Component List
+==============
+
+Component: CAV25256
+Part Number: CAV25256
+Type: Capacitor (likely ceramic capacitor)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: NCV97200
+Part Number: NCV97200
+Type: IC (Onsemi component - likely power management or driver)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: NCV8445
+Part Number: NCV8445
+Type: IC (Onsemi component - SOIC-8 package)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: RSL200
+Part Number: RSL200
+Type: Component (verify type and package from datasheet)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: KW12-3
+Part Number: KW12-3
+Type: Microswitch (mechanical switch)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: NCV7450
+Part Number: NCV7450
+Type: IC (Onsemi System Basis Chip - LDO, CAN FD, High-side driver)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: ESDONCAN1LT
+Part Number: ESDONCAN1LT
+Type: ESD Protection Diode (CAN/CAN-FD bus protection, SOT-23 package)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: NCV890100
+Part Number: NCV890100
+Type: IC (Onsemi component - verify package from datasheet)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: NCV891330
+Part Number: NCV891330
+Type: IC (Onsemi 3A step-down regulator - SOIC-8_EP package)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: NSVF4015SG4
+Part Number: NSVF4015SG4
+Type: Transistor (Onsemi NPN RF transistor - MCPH4/SC-82FL package)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: NBA3N012C
+Part Number: NBA3N012C
+Type: IC (Onsemi LVDS line receiver - SOT-23-5 package)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: AD3531R
+Part Number: AD3531R
+Type: IC (Analog Devices 4-channel 16-bit DAC with SPI - verify package from datasheet)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: TDC7200
+Part Number: TDC7200
+Type: IC (Texas Instruments Time-to-Digital Converter - TSSOP-14 package)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: MC14049B
+Part Number: MC14049B
+Type: IC (Onsemi Hex Inverter/Buffer - DIP-16 or SOIC-16 package)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: TUSB9261
+Part Number: TUSB9261
+Type: IC (Texas Instruments USB 3.0 to SATA Bridge - verify package from datasheet)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: NUP1105L
+Part Number: NUP1105L
+Type: ESD Protection Diode (Onsemi CAN/LIN bus protector - SOT-23 package)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: NV25128
+Part Number: NV25128
+Type: IC (Onsemi 128-Kbit SPI EEPROM - SOIC-8, TSSOP-8, or UDFN-8 package)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: NSDP301MX2W
+Part Number: NSDP301MX2W
+Type: Diode (Onsemi PIN Diode for RF attenuators/switches - X2DFNW2 package)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: ESD7551
+Part Number: ESD7551
+Type: ESD Protection Diode (Onsemi ultra-low capacitance ESD protection - verify package from datasheet)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: NSVF4009SG4
+Part Number: NSVF4009SG4
+Type: Transistor (Onsemi NPN RF transistor for low-noise amplifier - MCPH4/SC-82FL package)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: AWRL6432
+Part Number: AWRL6432
+Type: IC (Texas Instruments mmWave Radar Sensor - FCCSP BGA 12x12, 102 balls package)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: NRVHPM220
+Part Number: NRVHPM220
+Type: Diode (Onsemi Ultrafast Power Rectifier - POWERMITE package)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: NCV75215DB001R2G
+Part Number: NCV75215DB001R2G
+Type: IC (Onsemi Ultrasonic Parking Distance Measurement ASSP - TSSOP-16 package)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: NV24C128MUW
+Part Number: NV24C128MUW
+Type: IC (Onsemi 128-Kbit I2C EEPROM - UDFN-8 package, 2x3mm, wettable flanks)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: AS0149AT
+Part Number: AS0149AT
+Type: IC (Onsemi CMOS Digital Image Sensor - verify package from datasheet)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: NCV92310
+Part Number: NCV92310
+Type: IC (Onsemi Power Management IC with PoC - QFNW-20 package, 3.5x3.5mm, 0.5mm pitch)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: ESD8011
+Part Number: ESD8011
+Type: ESD Protection Diode (Onsemi ultra-low capacitance ESD protection - X3DFN-2 package, 0.62x0.32mm)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: MAX96793
+Part Number: MAX96793
+Type: IC (Maxim Integrated GMSL Serializer - verify package from datasheet)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: DS92LV16
+Part Number: DS92LV16
+Type: IC (Texas Instruments 16-bit Bus LVDS Serializer/Deserializer - LQFP-80 package)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: NV93C86WF
+Part Number: NV93C86WF
+Type: IC (Onsemi 16-Kbit Microwire Serial EEPROM - UDFN-8 package, 2x3mm, wettable flanks)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Component: TDA48410
+Part Number: TDA48410
+Type: IC (Infineon 10A Synchronous Buck Regulator - verify package from datasheet)
+Library Source: custom_components.kicad_sym
+Status: Added
+
+Additional Components:
+- CAV25256 (Capacitor)
+- NCV97200 (IC)
+- NCV8445 (IC)
+- RSL200 (Component)
+- KW12-3 (Microswitch)
+- NCV7450 (SBC IC)
+- ESDONCAN1LT (ESD Protection Diode)
+- NCV890100 (IC)
+- NCV891330 (Step-down Regulator)
+- NSVF4015SG4 (NPN RF Transistor)
+- NBA3N012C (LVDS Line Receiver)
+- AD3531R (4-channel DAC)
+- TDC7200 (Time-to-Digital Converter)
+- MC14049B (Hex Inverter/Buffer)
+- TUSB9261 (USB 3.0 to SATA Bridge)
+- NUP1105L (CAN/LIN Bus Protector)
+- NV25128 (SPI EEPROM)
+- NSDP301MX2W (PIN Diode)
+- ESD7551 (ESD Protection Diode)
+- NSVF4009SG4 (NPN RF Transistor)
+- AWRL6432 (mmWave Radar Sensor)
+- NRVHPM220 (Power Rectifier Diode)
+- NCV75215DB001R2G (Ultrasonic Parking ASSP)
+- NV24C128MUW (I2C EEPROM)
+- AS0149AT (CMOS Image Sensor)
+- NCV92310 (PMIC with PoC)
+- ESD8011 (Ultra-Low Capacitance ESD Protection)
+- MAX96793 (GMSL Serializer)
+- DS92LV16 (16-bit Bus LVDS SerDes)
+- NV93C86WF (16-Kbit Microwire Serial EEPROM)
+- TDA48410 (10A Synchronous Buck Regulator)
+
+Notes:
+- All components are in custom_components library
+- Symbol and footprint libraries required
+- Scripts automate the addition process
+
