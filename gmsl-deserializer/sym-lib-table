@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "custom_components")(type "KiCad")(uri "C:/Users/Jordan/Documents/GitHub/Driver-UI-vehicle-system/lib/custom_components.kicad_sym")(options "")(descr "Custom Components including CAV25256"))
+)
